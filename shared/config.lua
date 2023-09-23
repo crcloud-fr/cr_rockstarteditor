@@ -4,15 +4,13 @@
 --- @DateTime: 22/09/2023 16:58:16
 ---
 
-
 Config = {}
-
 Config.Type = "Simple"
 
 Config.Simple = {
     {
         name = "start_recording_and_save",
-        description = "Start recording and save",
+        description = Strings.start_recording_and_save,
         key = "F1",
         action = function()
             if IsRecording() then
@@ -24,7 +22,7 @@ Config.Simple = {
     },
     {
         name = "open_rockstar_editor",
-        description = "Open rockstart editor",
+        description = Strings.open_rockstar_editor,
         key = "F2",
         action = function()
             if not IsRecording() then
@@ -38,7 +36,7 @@ Config.Simple = {
 Config.Complete = {
     {
         name = "start_recording",
-        description = "Start recording",
+        description = Strings.start_recording,
         key = "F1",
         action = function()
             if not IsRecording() then
@@ -48,7 +46,7 @@ Config.Complete = {
     },
     {
         name = "open_rockstar_editor",
-        description = "Open rockstart editor",
+        description = Strings.open_rockstar_editor,
         key = "F2",
         action = function()
             if not IsRecording() then
@@ -59,7 +57,7 @@ Config.Complete = {
     },
     {
         name = "stop_record_save",
-        description = "Stop recording and save",
+        description = Strings.stop_record_save,
         key = "F3",
         action = function()
             if IsRecording() then
@@ -69,7 +67,7 @@ Config.Complete = {
     },
     {
         name = "stop_record_discard",
-        description = "Stop recording and Discard",
+        description = Strings.stop_record_discard,
         key = "F4",
         action = function()
             if IsRecording() then
