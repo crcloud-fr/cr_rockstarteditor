@@ -4,7 +4,6 @@
 --- @DateTime: 23/09/2023 15:57:34
 ---
 
-
 Strings = {
     start_recording_and_save = "Start recording and save",
     open_rockstar_editor = "Open rockstart editor",
