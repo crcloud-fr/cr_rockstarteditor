@@ -16,7 +16,8 @@ games { "rdr3", "gta5" }
 lua54("yes")
 
 shared_scripts {
-	'shared/config.lua'
+    'shared/language.lua',
+    'shared/config.lua',
 }
 
 client_scripts {
