@@ -1,6 +1,6 @@
 ---
---- @Author CriticalR, crcloud.fr
---- @Copyright (c) CriticalR & crcloud.fr - All Rights Reserved
+--- @Author CriticalR, crcloud-fr
+--- @Copyright (c) CriticalR & crcloud-fr - All Rights Reserved
 --- @DateTime: 22/09/2023 16:58:16
 ---
 
@@ -29,4 +29,4 @@ function debug(...)
     print('^1[DEBUG]: ^7', ...)
 end
 
-print("^1Script created by ^2@CriticalR, @crcloud.fr, \n^1github: ^2https://github.com/CriticalR/cr_rockstarteditor, \n^1important: ^2Please do not rename/resell/modify or appropriate this resource that is under license (GPL-3.0 license) and notify the author of this resource, \n^1discord: ^2https://discord.gg/2QgKq68gDP.^7")
+print("^1Script created by ^2@CriticalR, @crcloud-fr, \n^1github: ^2https://github.com/CriticalR/cr_rockstarteditor, \n^1important: ^2Please do not rename/resell/modify or appropriate this resource that is under license (GPL-3.0 license) and notify the author of this resource, \n^1discord: ^2https://discord.gg/2QgKq68gDP.^7")

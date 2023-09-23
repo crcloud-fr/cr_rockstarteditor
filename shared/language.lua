@@ -1,6 +1,6 @@
 ---
---- @Author CriticalR, crcloud.fr
---- @Copyright (c) CriticalR & crcloud.fr - All Rights Reserved
+--- @Author CriticalR, crcloud-fr
+--- @Copyright (c) CriticalR & crcloud-fr - All Rights Reserved
 --- @DateTime: 23/09/2023 15:57:34
 ---
 
